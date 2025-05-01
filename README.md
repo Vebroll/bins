@@ -1,25 +1,19 @@
 # Important announcement:
 
-## [Soon a new version of Hastebin will be launched!](https://github.com/toptal/haste-server/issues/429)
+## Bins aims to build on old ideas into a new age.  Welcome to code name UO&COC&D or user ownership and control over content and data.
 
-[Check here what you need to know.](https://github.com/toptal/haste-server/issues/429)
+# Bins
 
-.    
-.    
-.    
-
-# Haste
-
-Haste is an open-source pastebin software written in node.js, which is easily
+Bins is currently is an open-source pastebin software written in node.js, which is easily
 installable in any network.  It can be backed by either redis or filesystem,
-and has a very easy adapter interface for other stores.  A publicly available
-version can be found at [hastebin.com](http://hastebin.com)
+and has a very easy adapter interface for other stores. 
 
 Major design objectives:
 
 * Be really pretty
 * Be really simple
 * Be easy to set up and use
+* start intergration into UO&COC&D Platform
 
 Haste works really well with a little utility called
 [haste-client](https://github.com/seejohnrun/haste-client), allowing you
@@ -372,7 +366,7 @@ John Crepezzi <john.crepezzi@gmail.com>
 
 (The MIT License)
 
-Copyright © 2011-2012 John Crepezzi
+Copyright © 2011-2012 John Crepezzi & Vebroll 2025 -
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the ‘Software’), to deal in
