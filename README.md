@@ -358,9 +358,6 @@ Here is a list of all the environment variables
 |  RATELIMITS_BLACKLIST_EVERY_SECONDS  |                                       |     By default client names in the blacklist will be subject to 0 requests per hours     |
 |         RATELIMITS_BLACKLIST         | example1.blacklist,example2.blacklist |           Comma separated list of the clients which are in the blacklistpool.            |
 
-## Author
-
-John Crepezzi <john.crepezzi@gmail.com>
 
 ## License
 
