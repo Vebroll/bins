@@ -1,6 +1,6 @@
 # Important announcement:
 
-## Bins aims to build on old ideas into a new age.  Welcome to code name UO&COC&D or user ownership and control over content and data.
+## Bins aims to build on old ideas into a new age. 
 
 # Bins
 
